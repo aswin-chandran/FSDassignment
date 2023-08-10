@@ -12,4 +12,4 @@ function test_prime(num) {
   console.log(num, "Is Prime Number");
 }
 
-console.log(test_prime(a[2]));
+console.log(test_prime(a[0]));
